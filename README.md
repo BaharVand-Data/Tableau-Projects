@@ -87,8 +87,7 @@ To create a seamless user experience, I integrated advanced Tableau dashboard el
 ### 📸 Interactive Dashboard View
 
 <p align="center">
-
-<img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=1000&auto=format&fit=crop" alt="Interactive Tableau Dashboard" width="800" />
+<img width="1031" height="505" alt="image" src="https://github.com/user-attachments/assets/ec2dc839-9bea-41b1-be05-2a7170891823" />
 
 </p>
 
@@ -160,5 +159,5 @@ This project demonstrates my practical proficiency with Tableau for visual analy
 
 ## 👩‍💻 Author
 
-**[Your Name]**  
+**[Bahar Vand]**  
 Data Technician Bootcamp Participant
